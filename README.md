@@ -12,7 +12,7 @@ RFP sequence: Images for this research. Collected by Dr. Susan Zonglu Hua’s la
 defense_slides: slides for the project. A good way to learn what this project is about.
 
 Input image:
-https://github.com/JZWANG-1S/A-Semiautomatic-Cell-Boundary-and-Adherens-Junction-Layers-Detection-Approach-Using-Level-Set-Method/issues/1
+![input image]()
 
 Output image:
 /home/jingzhiw/Desktop/output.png
