@@ -10,3 +10,9 @@ middle-act: folder used to store intermediate variables during the execution.
 RFP sequence: Images for this research. Collected by Dr. Susan Zonglu Hua’s lab in the department of MAE, University at Buffalo, SUNY.
 
 defense_slides: slides for the project. A good way to learn what this project is about.
+
+Input image:
+/home/jingzhiw/Desktop/input.png
+
+Output image:
+/home/jingzhiw/Desktop/output.png
